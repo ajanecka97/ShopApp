@@ -1,0 +1,18 @@
+\\dc\stud_homes\126052\Documents\Sem 3\Programowanie\Kodv2\obj\Debug\P3.csprojAssemblyReference.cache
+\\dc\stud_homes\126052\Documents\Sem 3\Programowanie\Kodv2\obj\Debug\P3.csproj.CoreCompileInputs.cache
+\\dc\stud_homes\126052\Documents\Sem 3\Programowanie\Kodv2\bin\Debug\P3.dll
+\\dc\stud_homes\126052\Documents\Sem 3\Programowanie\Kodv2\bin\Debug\P3.pdb
+\\dc\stud_homes\126052\Documents\Sem 3\Programowanie\Kodv2\obj\Debug\P3.dll
+\\dc\stud_homes\126052\Documents\Sem 3\Programowanie\Kodv2\obj\Debug\P3.pdb
+C:\Users\szjan\Desktop\Programowanie\Kodv2\obj\Debug\P3.csprojAssemblyReference.cache
+C:\Users\szjan\Desktop\Programowanie\Kodv2\obj\Debug\P3.csproj.CoreCompileInputs.cache
+C:\Users\szjan\Desktop\Programowanie\Kodv2\obj\Debug\P3.dll
+C:\Users\szjan\Desktop\Programowanie\Kodv2\obj\Debug\P3.pdb
+C:\Users\szjan\Desktop\Programowanie\Kodv2\bin\Debug\P3.dll
+C:\Users\szjan\Desktop\Programowanie\Kodv2\bin\Debug\P3.pdb
+C:\Users\szjan\Desktop\Programowanie\Kodv2\bin\Debug\P3.dll.config
+C:\Users\szjan\Desktop\Programowanie\Kodv2\bin\Debug\System.Data.SQLite.dll
+C:\Users\szjan\Desktop\Programowanie\Kodv2\bin\Debug\System.Data.SQLite.xml
+C:\Users\szjan\Desktop\Programowanie\Kodv2\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\szjan\Desktop\Programowanie\Kodv2\obj\Debug\P3.csproj.CopyComplete
+C:\Users\szjan\Desktop\Programowanie\Kodv2\bin\Debug\P3.xml

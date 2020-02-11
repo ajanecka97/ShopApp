@@ -1,0 +1,17 @@
+﻿<Page x:Class="ShopApp.Pages.CartPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ShopApp.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="800" d:DesignWidth="1000"
+      Title="CartPage">
+
+    <Grid>
+        <DataGrid x:Name="ProductsDataGrid" ItemsSource="{Binding}" Height="427" Margin="45,45,45,0" VerticalAlignment="Top">
+        </DataGrid>
+        <Label x:Name="TotalValueLabel" Content="Wartość: " HorizontalAlignment="Left" Margin="764,477,0,0" VerticalAlignment="Top" Width="191" Height="50" HorizontalContentAlignment="Right"/>
+        <Button x:Name="button" Content="Przejdz do płatności" HorizontalAlignment="Left" Margin="823,527,0,0" VerticalAlignment="Top" Width="132" Click="Button_Click"/>
+    </Grid>
+</Page>

@@ -1,0 +1,18 @@
+﻿<Page x:Class="ShopApp.Pages.EditProducts"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ShopApp.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="800" d:DesignWidth="1000
+      "
+      Title="EditProducts">
+
+    <Grid>
+        <DataGrid x:Name="ProductsDataGrid" ItemsSource="{Binding}" HorizontalAlignment="Left" Height="366" Margin="33,27,0,0" VerticalAlignment="Top" Width="721"/>
+        <Button x:Name="addProductButton" Content="Dodaj produkt" HorizontalAlignment="Left" Margin="648,407,0,0" VerticalAlignment="Top" Width="106" Click="AddProductButton_Click" Height="35"/>
+        <Button x:Name="button" Content="Strona główna" HorizontalAlignment="Left" Margin="788,27,0,0" VerticalAlignment="Top" Width="98" Height="29" Click="Button_Click"/>
+
+    </Grid>
+</Page>

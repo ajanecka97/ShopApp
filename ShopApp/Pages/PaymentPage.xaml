@@ -1,0 +1,32 @@
+﻿<Page x:Class="ShopApp.Pages.PaymentPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ShopApp.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="800" d:DesignWidth="1000"
+      Title="PaymentPage">
+
+    <Grid>
+        <Label x:Name="label" Content="Imię" HorizontalAlignment="Left" Margin="165,61,0,0" VerticalAlignment="Top" Height="65" Width="81"/>
+        <Label x:Name="label1" Content="Nazwisko" HorizontalAlignment="Left" Margin="165,138,0,0" VerticalAlignment="Top" Width="136" Height="66"/>
+        <Label x:Name="label1_Copy" Content="Adres" HorizontalAlignment="Left" Margin="165,223,0,0" VerticalAlignment="Top" Width="136" Height="66"/>
+        <Label x:Name="label1_Copy1" Content="Miasto" HorizontalAlignment="Left" Margin="165,299,0,0" VerticalAlignment="Top" Width="136" Height="62"/>
+        <Label x:Name="label1_Copy2" Content="Kod pocztowy" HorizontalAlignment="Left" Margin="165,374,0,0" VerticalAlignment="Top" Width="136" Height="62"/>
+        <TextBox x:Name="nameTB" HorizontalAlignment="Left" Height="57" Margin="405,71,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="444"/>
+        <TextBox x:Name="surnameTB" HorizontalAlignment="Left" Height="58" Margin="405,149,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="444"/>
+        <TextBox x:Name="addressTB" HorizontalAlignment="Left" Height="58" Margin="405,231,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="444"/>
+        <TextBox x:Name="cityTB" HorizontalAlignment="Left" Height="57" Margin="405,309,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="444"/>
+        <TextBox x:Name="zipTB" HorizontalAlignment="Left" Height="58" Margin="405,384,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="444"/>
+        <ComboBox x:Name="comboBox" HorizontalAlignment="Left" Margin="405,479,0,0" VerticalAlignment="Top" Width="444" Height="55">
+            <ComboBoxItem IsSelected="True">Przelew Bankowy</ComboBoxItem>
+            <ComboBoxItem >Karta Kredytowa</ComboBoxItem>
+            <ComboBoxItem>Paypal</ComboBoxItem>
+            <ComboBoxItem>Gotówka</ComboBoxItem>
+        </ComboBox>
+        <Label x:Name="label1_Copy3" Content="Metoda płatności" HorizontalAlignment="Left" Margin="165,471,0,0" VerticalAlignment="Top" Width="196" Height="63"/>
+        <Button x:Name="button" Content="Zapłać" HorizontalAlignment="Left" Margin="748,562,0,0" VerticalAlignment="Top" Width="101" RenderTransformOrigin="0.747,-0.1" Height="36" Click="Button_Click"/>
+
+    </Grid>
+</Page>

@@ -1,0 +1,63 @@
+\\dc\stud_homes\126052\Documents\Sem 3\Programowanie\Kodv2\ShopApp\bin\Debug\ShopApp.exe.config
+\\dc\stud_homes\126052\Documents\Sem 3\Programowanie\Kodv2\ShopApp\bin\Debug\ShopApp.exe
+\\dc\stud_homes\126052\Documents\Sem 3\Programowanie\Kodv2\ShopApp\bin\Debug\ShopApp.pdb
+\\dc\stud_homes\126052\Documents\Sem 3\Programowanie\Kodv2\ShopApp\bin\Debug\P3.dll
+\\dc\stud_homes\126052\Documents\Sem 3\Programowanie\Kodv2\ShopApp\bin\Debug\P3.pdb
+\\dc\stud_homes\126052\Documents\Sem 3\Programowanie\Kodv2\ShopApp\obj\Debug\ShopApp.csprojAssemblyReference.cache
+\\dc\stud_homes\126052\Documents\Sem 3\Programowanie\Kodv2\ShopApp\obj\Debug\MainWindow.g.cs
+\\dc\stud_homes\126052\Documents\Sem 3\Programowanie\Kodv2\ShopApp\obj\Debug\App.g.cs
+\\dc\stud_homes\126052\Documents\Sem 3\Programowanie\Kodv2\ShopApp\obj\Debug\ShopApp_MarkupCompile.cache
+\\dc\stud_homes\126052\Documents\Sem 3\Programowanie\Kodv2\ShopApp\obj\Debug\ShopApp_MarkupCompile.lref
+\\dc\stud_homes\126052\Documents\Sem 3\Programowanie\Kodv2\ShopApp\obj\Debug\MainWindow.baml
+\\dc\stud_homes\126052\Documents\Sem 3\Programowanie\Kodv2\ShopApp\obj\Debug\ShopApp.g.resources
+\\dc\stud_homes\126052\Documents\Sem 3\Programowanie\Kodv2\ShopApp\obj\Debug\ShopApp.Properties.Resources.resources
+\\dc\stud_homes\126052\Documents\Sem 3\Programowanie\Kodv2\ShopApp\obj\Debug\ShopApp.csproj.GenerateResource.cache
+\\dc\stud_homes\126052\Documents\Sem 3\Programowanie\Kodv2\ShopApp\obj\Debug\ShopApp.csproj.CoreCompileInputs.cache
+\\dc\stud_homes\126052\Documents\Sem 3\Programowanie\Kodv2\ShopApp\obj\Debug\ShopApp.csproj.CopyComplete
+\\dc\stud_homes\126052\Documents\Sem 3\Programowanie\Kodv2\ShopApp\obj\Debug\ShopApp.exe
+\\dc\stud_homes\126052\Documents\Sem 3\Programowanie\Kodv2\ShopApp\obj\Debug\ShopApp.pdb
+\\dc\stud_homes\126052\Documents\Sem 3\Programowanie\Kodv2\ShopApp\obj\Debug\Pages\LoginPage.g.cs
+\\dc\stud_homes\126052\Documents\Sem 3\Programowanie\Kodv2\ShopApp\obj\Debug\Pages\ProductsPage.g.cs
+\\dc\stud_homes\126052\Documents\Sem 3\Programowanie\Kodv2\ShopApp\obj\Debug\Pages\LoginPage.baml
+\\dc\stud_homes\126052\Documents\Sem 3\Programowanie\Kodv2\ShopApp\obj\Debug\Pages\ProductsPage.baml
+C:\Users\szjan\Desktop\Programowanie\Kodv2\ShopApp\obj\Debug\ShopApp.csprojAssemblyReference.cache
+C:\Users\szjan\Desktop\Programowanie\Kodv2\ShopApp\obj\Debug\Pages\LoginPage.g.cs
+C:\Users\szjan\Desktop\Programowanie\Kodv2\ShopApp\obj\Debug\MainWindow.g.cs
+C:\Users\szjan\Desktop\Programowanie\Kodv2\ShopApp\obj\Debug\Pages\ProductsPage.g.cs
+C:\Users\szjan\Desktop\Programowanie\Kodv2\ShopApp\obj\Debug\App.g.cs
+C:\Users\szjan\Desktop\Programowanie\Kodv2\ShopApp\obj\Debug\ShopApp_MarkupCompile.cache
+C:\Users\szjan\Desktop\Programowanie\Kodv2\ShopApp\obj\Debug\ShopApp_MarkupCompile.lref
+C:\Users\szjan\Desktop\Programowanie\Kodv2\ShopApp\obj\Debug\ShopApp.exe
+C:\Users\szjan\Desktop\Programowanie\Kodv2\ShopApp\obj\Debug\ShopApp.pdb
+C:\Users\szjan\Desktop\Programowanie\Kodv2\ShopApp\bin\Debug\ShopApp.exe.config
+C:\Users\szjan\Desktop\Programowanie\Kodv2\ShopApp\bin\Debug\ShopApp.exe
+C:\Users\szjan\Desktop\Programowanie\Kodv2\ShopApp\bin\Debug\ShopApp.pdb
+C:\Users\szjan\Desktop\Programowanie\Kodv2\ShopApp\bin\Debug\P3.dll
+C:\Users\szjan\Desktop\Programowanie\Kodv2\ShopApp\bin\Debug\P3.pdb
+C:\Users\szjan\Desktop\Programowanie\Kodv2\ShopApp\obj\Debug\Pages\LoginPage.baml
+C:\Users\szjan\Desktop\Programowanie\Kodv2\ShopApp\obj\Debug\MainWindow.baml
+C:\Users\szjan\Desktop\Programowanie\Kodv2\ShopApp\obj\Debug\Pages\ProductsPage.baml
+C:\Users\szjan\Desktop\Programowanie\Kodv2\ShopApp\obj\Debug\ShopApp.g.resources
+C:\Users\szjan\Desktop\Programowanie\Kodv2\ShopApp\obj\Debug\ShopApp.Properties.Resources.resources
+C:\Users\szjan\Desktop\Programowanie\Kodv2\ShopApp\obj\Debug\ShopApp.csproj.GenerateResource.cache
+C:\Users\szjan\Desktop\Programowanie\Kodv2\ShopApp\obj\Debug\ShopApp.csproj.CoreCompileInputs.cache
+C:\Users\szjan\Desktop\Programowanie\Kodv2\ShopApp\obj\Debug\ShopApp.csproj.CopyComplete
+C:\Users\szjan\Desktop\Programowanie\Kodv2\ShopApp\obj\Debug\Pages\CartPage.g.cs
+C:\Users\szjan\Desktop\Programowanie\Kodv2\ShopApp\obj\Debug\Pages\CartPage.baml
+C:\Users\szjan\Desktop\Programowanie\Kodv2\ShopApp\bin\Debug\EntityFramework.dll
+C:\Users\szjan\Desktop\Programowanie\Kodv2\ShopApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\szjan\Desktop\Programowanie\Kodv2\ShopApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\szjan\Desktop\Programowanie\Kodv2\ShopApp\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\szjan\Desktop\Programowanie\Kodv2\ShopApp\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\szjan\Desktop\Programowanie\Kodv2\ShopApp\bin\Debug\EntityFramework.xml
+C:\Users\szjan\Desktop\Programowanie\Kodv2\ShopApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\szjan\Desktop\Programowanie\Kodv2\ShopApp\bin\Debug\System.Data.SQLite.xml
+C:\Users\szjan\Desktop\Programowanie\Kodv2\ShopApp\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\szjan\Desktop\Programowanie\Kodv2\ShopApp\bin\Debug\P3.dll.config
+C:\Users\szjan\Desktop\Programowanie\Kodv2\ShopApp\obj\Debug\Pages\EditProducts.g.cs
+C:\Users\szjan\Desktop\Programowanie\Kodv2\ShopApp\obj\Debug\Pages\EditProducts.baml
+C:\Users\szjan\Desktop\Programowanie\Kodv2\ShopApp\obj\Debug\Pages\AddProductPage.g.cs
+C:\Users\szjan\Desktop\Programowanie\Kodv2\ShopApp\obj\Debug\Pages\AddProductPage.baml
+C:\Users\szjan\Desktop\Programowanie\Kodv2\ShopApp\obj\Debug\Pages\PaymentPage.g.cs
+C:\Users\szjan\Desktop\Programowanie\Kodv2\ShopApp\obj\Debug\Pages\PaymentPage.baml
+C:\Users\szjan\Desktop\Programowanie\Kodv2\ShopApp\bin\Debug\P3.xml

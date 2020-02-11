@@ -1,0 +1,27 @@
+﻿<Page x:Class="ShopApp.Pages.AddProductPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ShopApp.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="800" d:DesignWidth="1000"
+      Title="AddProductPage">
+
+    <Grid>
+        <Label x:Name="productNameLabel" Content="Nazwa: " HorizontalAlignment="Left" Margin="87,70,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="priceLabel" Content="Cena: " HorizontalAlignment="Left" Margin="87,117,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="amountAvailableLabel" Content="Dostępna ilość: " HorizontalAlignment="Left" Margin="87,164,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="descriptionLabel" Content="Opis: " HorizontalAlignment="Left" Margin="87,213,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="nameTB" HorizontalAlignment="Left" Height="23" Margin="254,73,0,0" TextWrapping="Wrap" Background="Gray" Text="" VerticalAlignment="Top" Width="427" RenderTransformOrigin="0.335,0.568" CaretBrush="Black"/>
+        <TextBox x:Name="priceTB" HorizontalAlignment="Left" Height="23" Margin="254,117,0,0" TextWrapping="Wrap" Background="Gray" Text="" VerticalAlignment="Top" Width="427" RenderTransformOrigin="0.335,0.568" CaretBrush="Black"/>
+        <TextBox x:Name="amountTB" HorizontalAlignment="Left" Height="23" Margin="254,164,0,0" TextWrapping="Wrap" Background="Gray" Text="" VerticalAlignment="Top" Width="427" RenderTransformOrigin="0.451,-0.085" CaretBrush="Black"/>
+        <TextBox x:Name="descriptionTB" HorizontalAlignment="Left" Height="124" Margin="254,213,0,0" TextWrapping="Wrap" Background="Gray" Text="" VerticalAlignment="Top" Width="427" RenderTransformOrigin="0.335,0.568" CaretBrush="Black"/>
+        <Button x:Name="addProductButton" Content="Dodaj produkt" HorizontalAlignment="Left" Margin="587,445,0,0" VerticalAlignment="Top" Width="94" RenderTransformOrigin="0.045,0.511" Click="AddProductButton_Click" Height="35"/>
+        <CheckBox x:Name="cat1CB" Content="Elektronika" HorizontalAlignment="Left" Margin="254,362,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="cat2CB" Content="Moda" HorizontalAlignment="Left" Margin="254,382,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.105,0.85"/>
+        <CheckBox x:Name="cat3CB" Content="Sport" HorizontalAlignment="Left" Margin="254,402,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.921,0.276"/>
+        <CheckBox x:Name="cat4CB" Content="Rozrywka" HorizontalAlignment="Left" Margin="254,422,0,0" VerticalAlignment="Top" RenderTransformOrigin="-4.11,6.289"/>
+
+    </Grid>
+</Page>

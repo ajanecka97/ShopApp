@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>P3</name>
+    </assembly>
+    <members>
+        <member name="M:ShopCore.Data.DatabaseManager.SetConnection">
+            <summary>
+            Method estabilishes connection with SQLite database
+            </summary>
+        </member>
+        <member name="M:ShopCore.Data.DatabaseManager.ExecuteQuery(System.String)">
+            <summary>
+            Method open connection to the database. Then it executes querry on the database. When the operation is finished, connection with database is closed.
+            </summary>
+            <param name="txtQuery">Body of querry to execute</param>
+        </member>
+        <member name="M:ShopCore.Data.DatabaseManager.Load(System.String)">
+            <summary>
+            Method loads data from database
+            </summary>
+            <param name="command">Body of querry to execute</param>
+            <returns></returns>
+        </member>
+        <member name="M:ShopCore.Data.DatabaseManager.LastRowID(System.String)">
+            <summary>
+            Method loads last index of asked table.
+            </summary>
+            <param name="tableName">Name of table</param>
+            <returns>Returns last index of the table</returns>
+        </member>
+        <member name="P:ShopCore.User.Eligibility">
+            <summary>
+            Property for collection of Eligibility
+            </summary>
+            <pdGenerated>Default opposite class collection property</pdGenerated>
+        </member>
+        <member name="M:ShopCore.User.AddEligibility(ShopCore.Eligibility)">
+            <summary>
+            Add a new Eligibility in the collection
+            </summary>
+            <pdGenerated>Default Add</pdGenerated>
+        </member>
+        <member name="M:ShopCore.User.RemoveAll_eligibility">
+            <summary>
+            Remove all instances of Eligibility from the collection
+            </summary>
+            <pdGenerated>Default removeAll</pdGenerated>
+        </member>
+        <member name="P:ShopCore.Cart.Products">
+            <summary>
+            Property for collection of Product
+            </summary>
+            <pdGenerated>Default opposite class collection property</pdGenerated>
+        </member>
+        <member name="M:ShopCore.Cart.AddProduct(ShopCore.Product)">
+            <summary>
+            Add a new Product in the collection
+            </summary>
+            <pdGenerated>Default Add</pdGenerated>
+        </member>
+        <member name="M:ShopCore.Cart.RemoveProduct(ShopCore.Product)">
+            <summary>
+            Remove an existing Product from the collection
+            </summary>
+            <pdGenerated>Default Remove</pdGenerated>
+        </member>
+        <member name="M:ShopCore.Cart.RemoveAllProducts">
+            <summary>
+            Remove all instances of Product from the collection
+            </summary>
+            <pdGenerated>Default removeAll</pdGenerated>
+        </member>
+        <member name="M:ShopCore.Cart.#ctor">
+            <summary>
+            Default constructor
+            </summary>
+        </member>
+        <member name="M:ShopCore.Product.AddCategory(ShopCore.Category)">
+            <summary>
+            Add a new Category in the collection
+            </summary>
+            <pdGenerated>Default Add</pdGenerated>
+        </member>
+        <member name="M:ShopCore.Product.RemoveCategory(ShopCore.Category)">
+            <summary>
+            Remove an existing Category from the collection
+            </summary>
+            <pdGenerated>Default Remove</pdGenerated>
+        </member>
+        <member name="M:ShopCore.Product.InsertIntoDatabase">
+            <summary>
+            Inserts product data into database.
+            </summary>
+        </member>
+        <member name="M:ShopCore.Product.AddCategory(System.Int32)">
+            <summary>
+            Adds product to the category and inserts that data into database.
+            </summary>
+            <param name="categoryID">Id of category of the product</param>
+        </member>
+        <member name="M:ShopCore.Product.LoadFromDatabase">
+            <summary>
+            Loads products from Database.
+            </summary>
+            <returns>Products List in form of DataTable</returns>
+        </member>
+        <member name="P:ShopCore.Category.Products">
+            <summary>
+            Property for collection of Product
+            </summary>
+            <pdGenerated>Default opposite class collection property</pdGenerated>
+        </member>
+        <member name="M:ShopCore.Category.AddProduct(ShopCore.Product)">
+            <summary>
+            Add a new Product in the collection
+            </summary>
+            <pdGenerated>Default Add</pdGenerated>
+        </member>
+        <member name="M:ShopCore.Category.RemoveProduct(ShopCore.Product)">
+            <summary>
+            Remove an existing Product from the collection
+            </summary>
+            <pdGenerated>Default Remove</pdGenerated>
+        </member>
+        <member name="M:ShopCore.Category.RemoveAllProducts">
+            <summary>
+            Remove all instances of Product from the collection
+            </summary>
+            <pdGenerated>Default removeAll</pdGenerated>
+        </member>
+        <member name="M:ShopCore.Category.LoadListFromDatabase">
+            <summary>
+            Loads Category list from the database
+            </summary>
+            <returns>List of categories</returns>
+        </member>
+        <member name="M:ShopCore.Category.LoadProductsFromCategory(System.Int32)">
+            <summary>
+            Inserts product data into Products field.
+            </summary>
+            <param name="categoryID">Id of the category</param>
+        </member>
+        <member name="M:ShopCore.BasePayment.InsertIntoDatabase(System.Int32)">
+            <summary>
+            Method inserts payment data into the database.
+            </summary>
+            <param name="userID">Id of the user that made the payment.</param>
+        </member>
+        <member name="M:ShopCore.Utility.UserUtilities.HashPassword(System.String)">
+            <summary>
+            Method hashes password with HMACSHA1 algorithm.
+            </summary>
+            <param name="password">Not hashed password</param>
+            <returns>Hashed password</returns>
+        </member>
+        <member name="M:ShopCore.Utility.UserUtilities.Verify(System.String,System.String)">
+            <summary>
+            Method checks if asked password is the same as hashed password
+            </summary>
+            <param name="password">Not hashed password</param>
+            <param name="hashedPassword">Hashed password</param>
+            <returns>True if passwords are the same, false otherwise</returns>
+        </member>
+    </members>
+</doc>
